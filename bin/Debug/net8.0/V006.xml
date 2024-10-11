@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<packet>
+  <zglv>
+    <type>UslMp</type>
+    <version>2.0</version>
+    <date>13.12.2017</date>
+  </zglv>
+  <zap>
+    <IDUMP>1</IDUMP>
+    <UMPNAME>Стационарно</UMPNAME>
+    <DATEBEG>18.10.2012</DATEBEG>
+    <DATEEND/>
+  </zap>
+  <zap>
+    <IDUMP>2</IDUMP>
+    <UMPNAME>В дневном стационаре</UMPNAME>
+    <DATEBEG>18.10.2012</DATEBEG>
+    <DATEEND/>
+  </zap>
+  <zap>
+    <IDUMP>3</IDUMP>
+    <UMPNAME>Амбулаторно</UMPNAME>
+    <DATEBEG>18.10.2012</DATEBEG>
+    <DATEEND/>
+  </zap>
+  <zap>
+    <IDUMP>4</IDUMP>
+    <UMPNAME>Вне медицинской организации</UMPNAME>
+    <DATEBEG>18.10.2012</DATEBEG>
+    <DATEEND/>
+  </zap>
+</packet>
